@@ -71,7 +71,7 @@ Save and close the file.
 
 Step 2: Create a Password-Protected ZIP File
 
-Right-click on praveen.txt → Create Archive.
+Right-click on priya.txt → Create Archive.
 
 <img width="474" height="552" alt="Screenshot 2026-05-26 205915" src="https://github.com/user-attachments/assets/d6ddde8f-da87-4c7d-b9df-36a11244c9c0" />
 
@@ -81,7 +81,7 @@ Click Other Options, set a password (e.g., 1234), then click Create.
 
 <img width="726" height="423" alt="Screenshot 2026-05-26 210040" src="https://github.com/user-attachments/assets/782909f1-e32b-44a4-94b8-ae18d6463179" />
 
-A file named praveen.txt.zip will appear.
+A file named priya.txt.zip will appear.
 
 Step 3: Open John the Ripper Terminal in Kali Linux
 
@@ -105,7 +105,7 @@ Run: “ls” command
 
 <img width="213" height="55" alt="image" src="https://github.com/user-attachments/assets/deef6fcb-e61e-4a3f-8c8a-ac500b3a1eae" />
 
-You should see praveen.txt.zip listed.
+You should see priya.txt.zip listed.
 
 Step 6: Generate Hash Using zip2john
 
